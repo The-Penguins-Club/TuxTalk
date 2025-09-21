@@ -82,4 +82,4 @@ We invite community members, students, and professionals to actively participate
 
 👉 Want to give a talk or propose a topic?
 Please submit your ideas via our GitHub Issues page: 
-https://github.com/The-Penguins-Club/Monthly-Session/issues
+https://github.com/The-Penguins-Club/TuxTalk/issues
